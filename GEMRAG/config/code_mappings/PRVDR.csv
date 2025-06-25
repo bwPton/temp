@@ -1,0 +1,128 @@
+code,description
+0,Carrier wide
+1,General practice
+2,General surgery
+3,Allergy/immunology
+4,Otolaryngology
+5,Anesthesiology
+6,Cardiology
+7,Dermatology
+8,Family practice
+9,Interventional Pain Management (IPM) (eff. 4/1/03)                                       
+9,Gynecology (osteopaths only) (discontinued 5/92 use code 16)
+10,Gastroenterology
+11,Internal medicine
+12,Osteopathic manipulative therapy
+13,Neurology
+14,Neurosurgery
+15,Speech Language Pathologists
+15,Obstetrics (osteopaths only) (discontinued 5/92 use code 16)
+16,Obstetrics/gynecology
+17,Hospice and Palliative Care
+17,Ophthalmology
+18,Ophthalmology
+19,Oral surgery (dentists only)
+20,Orthopedic surgery
+21,Cardiac Electrophysiology
+21,Pathologic anatomy
+22,Pathology
+23,Sports medicine
+23,Peripheral vascular disease
+24,Plastic and reconstructive surgery
+25,Physical medicine and rehabilitation
+26,Psychiatry
+27,Geriatric Psychiatry Colorectal Surgery
+27,Psychiatry
+28,Colorectal surgery (formerly proctology)
+29,Pulmonary disease
+30,Diagnostic radiology
+31,Intensive Cardiac Rehabilitation
+31,Roentgenology
+32,Anesthesiologist Assistants (eff. 4/1/03--previously grouped with Certified Registered Nurse Anesthetists (CRNA))
+32,Radiation therapy (osteopaths only) (discontinued 5/92 use code 92)
+33,Thoracic surgery
+34,Urology
+35,Chiropractic
+36,Nuclear medicine
+37,Pediatric medicine
+38,Geriatric medicine
+39,Nephrology
+40,Hand surgery
+41,Optometry (revised 10/93 to mean optometrist)
+42,Certified nurse midwife (eff 1/87)
+43,CRNA (eff. 1/87) (Anesthesiologist Assistants were removed from this specialty 4/1/03)
+44,Infectious disease
+45,Mammography screening center
+46,Endocrinology (eff 5/92)
+47,Independent Diagnostic Testing Facility (IDTF) (eff. 6/98)
+48,Podiatry
+49,Ambulatory surgical center (formerly miscellaneous)
+50,Nurse practitioner
+51,Medical supply company with certified orthotist (certified by American Board for Certification in Prosthetics and Orthotics)                                                                                        
+52,Medical supply company with certified prosthetist (certified by American Board for Certification In Prosthetics and Orthotics)
+53,Medical supply company with certified prosthetist-orthotist (certified by American Board for Certification in Prosthetics and Orthotics)
+54,Medical supply company not included in 51
+55,Individual certified orthotist
+56,Individual certified prosthetist
+57,Individual certified prosthetist-orthotist
+58,Individuals not included in 55
+59,Ambulance service supplier
+60,Public health or welfare agencies (federal
+61,Voluntary health or charitable agencies (e.g.  National Cancer Society
+62,Psychologist (billing independently)
+63,Portable X-ray supplier
+64,Audiologist (billing independently)
+65,Physical therapist (private practice added 4/1/03) (independently practicing removed 4/1/03)
+66,Rheumatology (eff 5/92)   Note: during 93/94 DMERC also used this to mean medical supply company with respiratory therapist
+67,Occupational therapist (private practice added 4/1/03) (independently practicing removed 4/1/03)
+68,Clinical psychologist
+69,Clinical laboratory (billing independently)
+70,Multispecialty clinic or group practice
+71,Registered Dietician/Nutrition Professional (eff. 1/1/02)
+72,Pain Management (eff. 1/1/02)
+73,Mass Immunization Roster Biller (eff. 4/1/03)
+74,Radiation Therapy Centers (added to differentiate them from Independent Diagnostic Testing Facilities (IDTF --eff. 4/1/03)
+74,Occupational therapy (GPPP)  (not to be assigned after 5/92)
+75,Slide Preparation Facilities (added to differentiate them from Independent Diagnostic Testing Facilites (IDTFs -- eff. 4/1/03)
+75,Other medical care (GPPP) (not to assigned after 5/92)
+76,Peripheral vascular disease (eff 5/92)
+77,Vascular surgery (eff 5/92)
+78,Cardiac surgery (eff 5/92)
+79,Addiction medicine (eff 5/92)
+80,Licensed clinical social worker
+81,Critical care (intensivists) (eff 5/92)
+82,Hematology (eff 5/92)
+83,Hematology/oncology (eff 5/92)
+84,Preventive medicine (eff 5/92)
+85,Maxillofacial surgery (eff 5/92)
+86,Neuropsychiatry (eff 5/92)
+87,All other suppliers (e.g. drug and department stores) (note: DMERC used 87 to mean department store from 10/93 through 9/94; recoded eff 10/94 to A7;  NCH cross-walked DMERC reported 87 to A7.
+88,Unknown supplier/provider specialty (note: DMERC used 87 to mean grocery store from 10/93 - 9/94; recoded eff 10/94 to A8; NCH cross-walked DMERC reported 88 to A8.
+89,Certified clinical nurse specialist
+90,Medical oncology (eff 5/92)
+91,Surgical oncology (eff 5/92)
+92,Radiation oncology (eff 5/92)
+93,Emergency medicine (eff 5/92)
+94,Interventional radiology (eff 5/92)
+95,Competative Acquisition Program (CAP) Vendor (eff. 07/01/06). Prior to 07/01/06
+96,Optician (eff 10/93)
+97,Physician assistant (eff 5/92)
+98,Gynecologist/oncologist (eff 10/94)
+99,Unknown physician specialty
+A0,Hospital (eff 10/93) (DMERCs only)
+A1,SNF (eff 10/93) (DMERCs only)
+A2,Intermediate care nursing facility (eff 10/93) (DMERCs only)
+A3,Nursing facility
+A4,HHA (eff 10/93) (DMERCs only)
+A5,Pharmacy (eff 10/93) (DMERCs only)
+A6,Medical supply company with respiratory therapist (eff 10/93) (DMERCs only)
+A7,Department store (for DMERC use: eff 10/94
+A8,Grocery store (for DMERC use:  eff 10/94
+A9,Indian Health Service (IHS)
+B1,Supplier of oxygen and/or oxygen related equipment (eff. 10/2/07)
+B2,Pedorthic Personnel (eff. 10/2/07)
+B3,Medical Supply Company with Pedorthic Personnel (eff. 10/2/07)
+B4,Rehabilitation Agency (eff. 10/2/07)
+B5,Ocularist
+C0,Sleep medicine
+C1,Centralized Flu

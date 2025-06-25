@@ -1,0 +1,36 @@
+experiment:
+  name: "NCDs/LCDs"
+  test_data_path: "/Workspace/Users/benjamin.wynn@peraton.com/GEMRAG/testing/testing_data.csv"
+  n_results: 20
+  search_type: "HYBRID"
+  create_index: True
+  test_search: True
+vector_search:
+  delete_old_index: True
+  endpoint_name: "global-edits-policy-search"
+  index_name: "sandbox_catalog.default.gem_text_index"
+  embedding_endpoint: "global-edits-embeddings"
+  primary_key: "chunk_id"
+  source_column: "text"
+  indexed_columns: ["chunk_id", "text", "file_path", "title","hcpcs_codes","cpt_codes","icd10_codes","modifier_codes","hcpcs_descriptions", "cpt_descriptions", "icd10_descriptions", "modifier_descriptions"]
+
+document_parsing:
+  document_volume: "globaledit-policy-docs"
+  text_table: "pdf_raw_text"
+  chunk_table: "gem_text"
+  batch_size: 50
+  log_every: 50
+  debug_rows: 100
+  multipage_chunker:
+    max_words_per_chunk: 500
+  overlap_word_chunker:
+    window_words: 500
+    overlap_words: 250
+
+mappings_folder: "/Workspace/Users/benjamin.wynn@peraton.com/GEMRAG/config/code_mappings/"
+schema_name: "default"
+catalog_name: "sandbox_catalog"
+
+
+
+
